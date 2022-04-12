@@ -73,7 +73,6 @@ export const WORDS = [
   'table',
   'booze',
   'times',
-  'blast',
   'toxic',
   'rings',
   'whale',
